@@ -1,0 +1,2 @@
+# SimulatePanamaCanal_RT_Embedded_TI_RTOS_MSP430
+Given a description of panama canal and how to simulate it, in this project in college course "Real Time Embedded Systems" we were asked to make a simulation of panama canal using TI RTOS Kernel and on MSP430 micro controller card on the Code Composer Studio IDE while following the rules of multithreaded programming and Real Time systems with priority  based scheduler and thus simulating the panama canal as described in the final project specifications. 
