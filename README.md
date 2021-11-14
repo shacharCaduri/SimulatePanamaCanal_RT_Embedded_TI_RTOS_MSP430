@@ -51,7 +51,7 @@ Note: somtimes you'll see the discover project (such as here in my case) with an
 For any kind of issues or suggestions in the context of this installation you can contact me.
 
 ### **How to use?**
-This project purpose for simulation only with the MSP430F5529 Micro controller card, and you use it by running it on this micro controller card that has been specified earlier here and in the description, I suggest anyone who want to know how to run will search for a guide how to run a project on CCStudio even tough it is done by simply search the button build\rebuild and then click debug and let it run, Further more it is important to mention that because this project run on a micro controller card it also has led blink service specification in simple words it is indicators on the card that it is running and the indicators are the leds that are turning on according to this specification:
+This project purpose for simulation only with the MSP430F5529 Micro controller card, and you use it by running it on this micro controller card that has been specified earlier here and in the description, I suggest anyone who want to know how to run will search for a guide how to run a project on CCStudio even tough it is done by simply search the button build\rebuild and then click debug and let it run, Further more it is important to mention that because this project run on a micro controller card it also has led blink service specification in simple words it is indicators on the card that it is running on and the indicators are the leds that are turning on according to this specification:
 
 
 ![led blink specification](https://user-images.githubusercontent.com/73823590/141675111-2cdbf1ad-165a-49cc-bec4-4d62c768557b.PNG)
@@ -61,6 +61,3 @@ Per Map Point:
 ![led blink specification per map point](https://user-images.githubusercontent.com/73823590/141675114-8925b84a-0620-4288-973d-0337ba6e4eff.PNG)
 
 The LEDs on the conroller should blink as described here in the photos, and the user can debug and see the behavior of the the threads in the system and thus see it is actually simulating the panama cannal as show in the conceptual abstraction in the description earlier in this document.
-
-
-
