@@ -16,4 +16,4 @@ One of the challenges I faced is one of the critical challenges in Real Time Emb
 ### **How to install**
 To install this project (INSTALLATION through Code Composer Studio) :
 
-      a. archive/zip all of this project content.
+    a. archive/zip all of this project content.
