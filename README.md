@@ -11,8 +11,9 @@ I used TI-RTOS kernel with the IDE Code Composer because it was a college course
 One of the challenges I faced is one of the critical challenges in Real Time Embedded projects is memory management, cause all things need to be done in a manner of saving memory, timing for buisness or safety crictical systems and this is because: 
   a. those systems usually have small / limited memory capicity proportion to the system needs. 
   b. those systems usually have one main goal which it needs to accomplish and using the memory in a smart and efficient way.
- I have managed to put this to the test because without managing the memory the project can't work because as mentioned before this project and even greater project in RTOS embedded needs to meet conditions of memory saving so it can work cause it have limited memory, but saving memory in a more efficient is somthing that can always be improve and always should be in those kind of systems.
+I have managed to put this to the test because without managing the memory the project can't work because as mentioned before this project and even greater project in RTOS embedded needs to meet conditions of memory saving so it can work cause it have limited memory, but saving memory in a more efficient is somthing that can always be improve and always should be in those kind of systems.
   
 ### **How to install**
 To install this project (INSTALLATION through Code Composer Studio) :
+
     a. archive/zip all of this project content.
